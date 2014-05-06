@@ -1,6 +1,6 @@
 {
   "name": "ngGremlins",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Always have your Gremlins awake and ready for mischief!",
   "main": "dist/ng-gremlins.js",
   "directories": {
