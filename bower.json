@@ -1,0 +1,19 @@
+{
+  "name": "ng-gremlins",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Wildhoney/ngGremlins",
+  "authors": [
+    "Wildhoney <adam.timberlake@gmail.com>"
+  ],
+  "description": "Always have your Gremlins awake and ready for mischief!",
+  "main": "dist/ng-gremlins.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "example/js/vendor",
+    "test",
+    "tests"
+  ]
+}
