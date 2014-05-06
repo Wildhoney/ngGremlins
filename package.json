@@ -1,0 +1,22 @@
+{
+  "name": "ngGremlins",
+  "version": "0.1.0",
+  "description": "Always have your Gremlins awake and ready for mischief!",
+  "main": "dist/ng-gremlins.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Wildhoney/ngGremlins.git"
+  },
+  "author": "Adam Timberlake <adam.timberlake@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wildhoney/ngGremlins/issues"
+  },
+  "homepage": "https://github.com/Wildhoney/ngGremlins"
+}
